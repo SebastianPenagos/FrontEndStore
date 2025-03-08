@@ -1,7 +1,8 @@
 :root{
-      --principal: #FF0000;
-      --secundario:
-      --terciario:
+      --principal: #9C27B0;
+      --secundario: #89119D;
+      --terciario: #FFCE00;
+      --secundarioOscuro: rgb(233, 287, 2);
       --blanco: #FFFFFF;
       --negro: #000000;
 
